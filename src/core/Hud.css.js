@@ -8,7 +8,8 @@ var CSS = {
   border: 0,
 	fontSize: 100,
 	font: 'inherit',
-	verticalAlign: 'baseline'
+	verticalAlign: 'baseline',
+  dispay: 'block'
 };
 
 export { CSS };
